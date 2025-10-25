@@ -2,7 +2,10 @@
 
 ## Description
 A very minimalist PDF file viewer
+
+
 ![](https://github.com/Nikki-M12/simple-pdf/blob/main/spdf.png)
+
 
 ## How to compile
 
