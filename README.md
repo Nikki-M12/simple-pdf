@@ -34,7 +34,9 @@ sudo zypper install git libqt5-qtbase-devel poppler-qt5-devel gcc-c++ make
 ```bash
 sudo apk add qt5-qtbase-dev git poppler-qt5-dev g++ make
 ```
-### Step 2: Compile the project
+
+
+## Step 2: Compile the project
 
 ```bash
 git clone https://github.com/Nikki-M12/simple-pdf && cd simple-pdf
